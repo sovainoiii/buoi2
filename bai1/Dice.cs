@@ -1,5 +1,6 @@
 ﻿namespace bai1
 {
+    //Bai lam cua Pham Duc Minh
     internal class Dice
     {
         int slides;
